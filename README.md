@@ -35,7 +35,9 @@ The window is **1100 × 740**, rendering is capped at **60 FPS**, and an elimina
 
 ## Demo Video
 
-[View Demo Video](Videos/demo.mp4)
+https://github.com/user-attachments/assets/f2e51cf0-7d8e-44a6-8394-a1e0e7b5c9a7
+
+
 
 ## Requirements
 
